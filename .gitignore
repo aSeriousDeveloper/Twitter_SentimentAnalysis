@@ -1,0 +1,5 @@
+#Ingore these folders
+data/
+runs/
+.vscode/
+__pycache__/
